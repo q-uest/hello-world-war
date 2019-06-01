@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World...Ram,kutties:Tarun Atchu!! </h1>
+	<h1>Hello World...Ram,Tarun kutti,Atchu kutti!! </h1>
 
 	<p>
 		It is now
