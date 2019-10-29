@@ -3,7 +3,7 @@
 <title>Feature2!</title>
 </head>
 <body>
-	<h1>Hello this Feature2!</h1>
+	<h1>Hello this Feature central</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
