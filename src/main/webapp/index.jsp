@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Feature!!1</title>
+<title>Feature!!2</title>
 </head>
 <body>
 	<h1>Hello this Feature central</h1>
